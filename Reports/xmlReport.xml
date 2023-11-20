@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.369" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Education graduate level" name="Engineering" time="0.043">
+<system-out><![CDATA[
+Given the student should completed higher secondary education...............passed
+Given the student should have more than 50% marks...........................passed
+Given the student applied for engineering course............................passed
+When the student passed engineering entrance exam...........................passed
+And the student is eligible for engineering course..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Education graduate level" name="Medical" time="0.007">
+<system-out><![CDATA[
+Given the student should completed higher secondary education...............passed
+Given the student should have more than 50% marks...........................passed
+Given the student applied for medical course................................passed
+When the student passed medical entrance exam...............................passed
+And the student is eligible for medical course..............................passed
+]]></system-out>
+</testcase>
+</testsuite>
