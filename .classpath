@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/byte-buddy-1.14.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/checker-qual-3.33.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/error_prone_annotations-2.18.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/guava-32.1.2-jre.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/opentelemetry-api-1.28.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/opentelemetry-api-events-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/opentelemetry-context-1.28.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/opentelemetry-exporter-logging-1.28.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/opentelemetry-extension-incubator-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/opentelemetry-sdk-1.28.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/opentelemetry-sdk-common-1.28.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/opentelemetry-sdk-logs-1.28.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/opentelemetry-sdk-metrics-1.28.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/opentelemetry-sdk-trace-1.28.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/lib/opentelemetry-semconv-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-api-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-api-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-chrome-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-chrome-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-chromium-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-chromium-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-devtools-v85-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-devtools-v85-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-devtools-v117-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-devtools-v117-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-devtools-v118-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-devtools-v118-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-devtools-v119-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-devtools-v119-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-edge-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-edge-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-firefox-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-firefox-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-http-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-http-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-ie-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-ie-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-java-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-java-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-json-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-json-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-manager-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-manager-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-os-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-os-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-remote-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-remote-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-safari-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-safari-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-support-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium jar latest/selenium-java-4.15.0/selenium-support-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-1.2-api-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-api-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-api-test-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-appserver-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-cassandra-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-core-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-core-test-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-couchdb-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-docker-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-flume-ng-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-iostreams-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-jakarta-smtp-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-jakarta-web-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-jcl-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-jdbc-dbcp2-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-jpa-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-jpl-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-jul-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-kubernetes-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-layout-template-json-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-mongodb3-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-mongodb4-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-slf4j2-impl-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-slf4j-impl-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-spring-boot-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-spring-cloud-config-client-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-taglib-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-to-jul-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-to-slf4j-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-2.21.1-bin/log4j-web-2.21.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/json/json-simple-1.1.1.jar/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanl/Desktop/External_JARs/log4j/apache-log4j-core3.0.0/log4j-core-3.0.0-alpha1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
